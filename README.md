@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/CaS1E" target="_blank">Ilya</a> 
 </h1>
 
-<h5 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2791FE&center=true&vCenter=true&width=435&lines=%D0%9Cobile+developer%2C+ITMO+student" alt="Typing SVG" /></a></h5>
+<h6 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2791FE&center=true&vCenter=true&width=435&lines=%D0%9Cobile+developer%2C+ITMO+student" alt="Typing SVG" /></a></h6>
 
 I'm an iOS mobile developer, but I'm getting started with Flutter. Now I'm developing my [Flicker](https://github.com/WillowRussia/Flicker) project, for saving the most precious memories. Before that, I worked on [KuzbassTour](https://github.com/WillowRussia/KuzbassTour) to improve tourism in my area, but I was not allocated money to continue the project.
 
